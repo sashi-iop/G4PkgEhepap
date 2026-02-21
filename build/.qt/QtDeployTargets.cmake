@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_cmsmodel_FILE /Users/sashibhusansahoo/Desktop/cmsModel/build/cmsmodel)
+set(__QT_DEPLOY_TARGET_cmsmodel_TYPE EXECUTABLE)
